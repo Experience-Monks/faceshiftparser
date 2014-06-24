@@ -1,0 +1,28 @@
+{
+  "name": "faceshiftparser",
+  "version": "0.0.0",
+  "description": "This module can be used to parse Faceshift Open File Format data files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/faceshiftparser.git"
+  },
+  "keywords": [
+    "face",
+    "shift",
+    "parser",
+    "faceshift",
+    "open",
+    "file",
+    "format"
+  ],
+  "author": "Mikko Haapoja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jam3/faceshiftparser/issues"
+  },
+  "homepage": "https://github.com/Jam3/faceshiftparser"
+}
