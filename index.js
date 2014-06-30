@@ -16,7 +16,7 @@ FaceShiftParser.prototype = {
 
 		data = data.split( '\n' );
 
-		for( var i = 0, len = data.length; i < len; i++ ) {
+		for( var i = 0, fullLen = data.length; i < fullLen; i++ ) {
 
 			if( data[ i ] ) {
 
