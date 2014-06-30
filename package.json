@@ -1,6 +1,6 @@
 {
   "name": "faceshiftparser",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This module can be used to parse Faceshift Open File Format data files",
   "main": "index.js",
   "scripts": {
